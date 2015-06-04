@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/WES_Scripts/.idea/WES_Scripts.iml" filepath="$USER_HOME$/PycharmProjects/WES_Scripts/.idea/WES_Scripts.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/probe_analysis/.idea/probe_analysis.iml" filepath="$USER_HOME$/PycharmProjects/probe_analysis/.idea/probe_analysis.iml" />
+    </modules>
+  </component>
+</project>

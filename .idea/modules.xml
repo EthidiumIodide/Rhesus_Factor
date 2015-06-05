@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/PycharmProjects/WES_Scripts/.idea/WES_Scripts.iml" filepath="$USER_HOME$/PycharmProjects/WES_Scripts/.idea/WES_Scripts.iml" />
-      <module fileurl="file://$USER_HOME$/PycharmProjects/probe_analysis/.idea/probe_analysis.iml" filepath="$USER_HOME$/PycharmProjects/probe_analysis/.idea/probe_analysis.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/VCF_Analysis/.idea/probe_analysis.iml" filepath="$USER_HOME$/PycharmProjects/VCF_Analysis/.idea/probe_analysis.iml" />
     </modules>
   </component>
 </project>
